@@ -1,0 +1,1 @@
+# Qa-digibank-manual-automation
