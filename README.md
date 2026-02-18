@@ -30,4 +30,17 @@ This repository contains both **Manual Test Cases** and **Automation Testing (Cy
 - Markdown Documentation
 
 ---
+## Test Coverage
+
+The following modules were covered during testing:
+
+- Admin Management
+- User Register / Login
+- Deposit
+- Withdraw
+- Transfer
+- Search & Report
+- Favorite Account
+- Performance testing
+- Security testing
 
